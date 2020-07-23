@@ -1,6 +1,8 @@
 # Spring Batch Examples - Error Handling Skip
 
-Project with examples using Spring Batch. In this project there are examples with error handling and skip configuration.
+Project with examples using Spring Batch.
+
+In this project there are examples with error handling and skip configuration.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
